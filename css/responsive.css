@@ -226,6 +226,12 @@
     }
 }
 
+@media (max-width: 505px){
+    #lateral input[type="text"] {
+        width: 91%;
+    }
+}
+
 @media (max-width:475px){
     #logo{
         float: left;
@@ -300,3 +306,14 @@
         animation: none 10s infinite linear;
     }
 } 
+@media (max-width:453px){
+    .card {
+
+        width: 16.7%;
+        margin: 1.40%;
+
+    }
+    #login #user, #login #password {
+        margin-left: 14px;
+    }
+}
