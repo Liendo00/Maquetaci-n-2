@@ -265,6 +265,10 @@
     #banner h1 {
         font-size: 18px;
     }
+    .card {
+        width: 16.7%;
+        margin: 1.43%;
+    }
     .card .icon{
         font-size: 35px;
     }
